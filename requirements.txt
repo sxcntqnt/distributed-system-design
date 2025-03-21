@@ -1,10 +1,10 @@
 asn1crypto==0.24.0
-certifi==2023.7.22
+certifi==2024.7.4
 cffi==1.12.2
 chardet==3.0.4
-cryptography==41.0.4
+cryptography==44.0.1
 cycler==0.10.0
-idna==2.8
+idna==3.7
 kiwisolver==1.1.0
 libarchive-c==2.8
 pycosat==0.6.3
@@ -15,7 +15,7 @@ PySocks==1.6.8
 python-dateutil==2.8.0
 ruamel-yaml==0.15.46
 six==1.12.0
-torch==1.1.0
-tqdm==4.32.1
-urllib3==1.26.18
+torch==2.4.0
+tqdm==4.66.3
+urllib3==1.26.19
 pytest==5.3.1
